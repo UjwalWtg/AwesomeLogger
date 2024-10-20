@@ -4,6 +4,11 @@ A simple, customizable .NET logging library with colorized console output and fi
 ## Installation
 Clone the repository and include the `AwesomeLogger` project in your solution or use the DLL directly.
 
+## Features
+Console logging with customizable colors.
+File logging to a specified file.
+Configurable log format and behavior.
+
 ## Usage
 
 ```csharp
