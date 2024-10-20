@@ -20,8 +20,3 @@ logger.Info("This is an info message.");
 logger.Warning("This is a warning.");
 logger.Error("This is an error!");
 logger.Debug("This is a debug message.");
-
-Features
-Console logging with customizable colors.
-File logging to a specified file.
-Configurable log format and behavior.
